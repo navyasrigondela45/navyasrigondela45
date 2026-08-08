@@ -4,7 +4,7 @@
 
 💼 IT Professional with 4+ Years of Experience  
 🚀 DevOps Engineer | Cloud & Automation  
-☁️ AWS | Linux | Docker | Kubernetes | Jenkins | Terraform
+☁️ AWS | Linux | Docker | Kubernetes | Jenkins | Terraform | Bash scripting | Python
 
 ## 👩‍💻 About Me
 
@@ -131,7 +131,6 @@
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/navya-sri-gondela
-
 ---
 
 ⭐ Building and sharing hands-on DevOps projects, automation, and cloud solutions.
