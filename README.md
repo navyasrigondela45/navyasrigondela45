@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/userupload/22212016/file/original-f79177f9cdbbd3e293ebadc726fa5616.gif">
+<img align="right" alt="Coding" width="180" src="https://cdn.dribbble.com/userupload/22212016/file/original-f79177f9cdbbd3e293ebadc726fa5616.gif">
 
 # Hi there 👋, I'm Navya Sri
 
